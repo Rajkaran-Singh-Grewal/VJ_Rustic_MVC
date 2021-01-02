@@ -1,0 +1,6 @@
+[package]
+name = "VJ_Rustic_MVC"
+version = "0.0.1"
+authors = ["Rajkaran Singh Grewal <rajkaran.singh.grewal@outlook.com"]
+edition = "2018"
+[dependencies]

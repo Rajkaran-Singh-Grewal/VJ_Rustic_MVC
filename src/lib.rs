@@ -36,6 +36,6 @@ fn main(){
             }
         }
     }
-    // close the socket server
+    // close the socket server 2
     drop(listener)
 }
